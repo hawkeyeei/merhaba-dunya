@@ -1,2 +1,3 @@
 # merhaba-dunya
-Dünya
+
++ Bu bir deneme aşamasıdır.
